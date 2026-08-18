@@ -54,6 +54,6 @@ Technologies, libraries, and frameworks used in this project:
 ## Authors <!--- do not change this line -->
 This project was completed in collaboration with:
 - Levi Kuhn ([LJKuhn33@gmail.com](mailto:ljkuhn33@gmail.com)) ([Add me on LinkedIn!](https://www.linkedin.com/in/levijkuhn/))
-- *Jane Smith ([jane.smith@example.com](mailto:jane.smith@example.com))*
-- *Jane Smith ([jane.smith@example.com](mailto:jane.smith@example.com))*
-- *Jane Smith ([jane.smith@example.com](mailto:jane.smith@example.com))*
+- Tony *Lastname ([jane.smith@example.com](mailto:jane.smith@example.com))*
+- Mukta *Lastname ([jane.smith@example.com](mailto:jane.smith@example.com))*
+- Chiamaka *Lastname ([jane.smith@example.com](mailto:jane.smith@example.com))*
