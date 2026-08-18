@@ -19,19 +19,16 @@ Determining whether we can correctly classify pictures of solar panel defects wi
    retained because it guarantees the test set reflects the true class distribution, making
    per-class metrics interpretable and comparable across runs.
 
-3. Identified per-class performance as uneven, with accuracy varying substantially
-   across conditions:
-   - Snow-Covered: 100% (25/25)
-   - Clean: 94.74% (36/38)
-   - Bird-drop: 87.80% (36/41)
-   - Electrical-damage: 85.71% (18/21)
-   - Dusty: 84.21% (32/38)
-   - Physical-Damage: 64.29% (9/14) — the weakest class, and also the smallest, with only
-     14 test images; the small sample makes this estimate imprecise.
+3. Identified per-class performance as uneven, with accuracy varying substantially.
+   <p align="center">
+   <img width="700" alt="Per-class test accuracy" src="https://github.com/user-attachments/assets/e7b45e4a-4f1f-45c1-a83d-ddc5ddc398be"/>
+   <br>
+     <em>Per-class test accuracy. Physical-Damage is both the weakest and smallest class — with only 14 test images, five errors move the estimate by over 35 percentage points, so this figure is far less precise than the others.</em>
+   </p>
 
-5. Applied GradCAM to visualize model attention, confirming the classifier focuses on the panel surface rather than background artifacts.
+4. Applied GradCAM to visualize model attention, confirming the classifier focuses on the panel surface rather than background artifacts.
 
-6. Deployed an interactive Streamlit application that accepts an uploaded panel image
+5. Deployed an interactive Streamlit application that accepts an uploaded panel image
    and returns a predicted condition with per-class confidence scores.
 
 
