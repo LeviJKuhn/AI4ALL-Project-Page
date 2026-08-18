@@ -52,11 +52,8 @@ Technologies, libraries, and frameworks used in this project:
 - GradCAM
 
 ## Authors <!--- do not change this line -->
-
-(UPDATE IN README.md)
-List the names and contact information (e.g., email, GitHub profiles) of the authors or contributors.
-
-*EXAMPLE:*
-*This project was completed in collaboration with:*
-- *John Doe ([john.doe@example.com](mailto:john.doe@example.com))*
+This project was completed in collaboration with:
+- Levi Kuhn ([LJKuhn33@gmail.com](mailto:ljkuhn33@gmail.com)) ([Add me on LinkedIn!](https://www.linkedin.com/in/levijkuhn/))
+- *Jane Smith ([jane.smith@example.com](mailto:jane.smith@example.com))*
+- *Jane Smith ([jane.smith@example.com](mailto:jane.smith@example.com))*
 - *Jane Smith ([jane.smith@example.com](mailto:jane.smith@example.com))*
