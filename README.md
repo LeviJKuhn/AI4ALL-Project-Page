@@ -5,6 +5,8 @@ Created a ResNet-18 computer vision model to classify solar panel defects. Utili
 ## Problem Statement <!--- do not change this line -->  
 As carbon emissions continue to climb, scientists and engineers are looking for ways to implement and improve upon existing clean energy solutions. Current clean energy solutions come with large, up-front costs or long-term maintenance plans. By reducing the necessary human labor, and resulting monetary cost, of maintaining these clean energy solutions, they can more easily be adopted internationally.  
 
+Determining whether we can correctly classify pictures of solar panel defects with AI models allows us to begin improving upon solar panel retention systems. By rapidly recognizing and classifying solar panel defects, solar panels can stay active longer, absorb more energy from the sun, and reduce the cost of maintenance.
+
 ## Key Results <!--- do not change this line -->
 1. Fine-tuned a ResNet18 classifier to 88.14% test accuracy across six solar panel
    conditions (Bird-drop, Clean, Dusty, Electrical-damage, Physical-Damage, Snow-Covered),
