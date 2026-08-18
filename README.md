@@ -1,10 +1,5 @@
-# (UPDATE IN README.md) Project Title
-
-(UPDATE IN README.md)
-Briefly describe the purpose/result(s) of your project, the skills you applied, and the AI4ALL Ignite program.
-
-*EXAMPLE:*
-*Uncovered and meticulously analyzed three distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*
+# Solar Panel Defect Detection Model  
+Created a ResNet-18 computer vision model to classify solar panel defects. Utilizing transferred learning techniques to increase model efficacy, stratified sampling methods to ensure equal representation, and GradCAM to create model explainability for informed decision making, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.  
 
 
 ## Problem Statement <!--- do not change this line -->
