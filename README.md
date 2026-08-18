@@ -1,5 +1,5 @@
 # Solar Panel Defect Detection Model  
-Created a ResNet-18 computer vision model to classify solar panel defects. Utilizing transferred learning techniques to increase model efficacy, stratified sampling methods to ensure equal representation, and GradCAM to create model explainability for informed decision making, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.  
+Created a ResNet-18 computer vision model to classify solar panel defects. Utilizing transferred learning techniques to increase model efficacy, stratified sampling methods to ensure equal more representation, and GradCAM to create model explainability for informed decision making, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.  
 
 
 ## Problem Statement <!--- do not change this line -->  
@@ -34,21 +34,12 @@ As carbon emissions continue to climb, scientists and engineers are looking for 
 
 
 ## Methodologies <!--- do not change this line -->
-
-(UPDATE IN README.md)
-
-*EXAMPLE:*
-*To accomplish this, we utilized the OpenAI API to interact with ChatGPT, and we designed a custom Python script to generate diverse prompts and collect corresponding responses. The data was then processed and analyzed using pandas, enabling us to detect patterns and biases in the AI model's outputs.*
-*Engineered a Python script to generate over 1,000 prompts and elicit their responses from ChatGPT, utilizing pandas to collect the data. When prompted for solutions to this specific relevant crisis, nearly 80% of ChatGPT's responses promoted a certain worldview.*
-
+To accomplish this, we utilized the existing ResNet-18 computer vision model so that our model would already understand basic lines, edges, and colors before undergoing fine-tuning. The dataset for our training was sourced online at Kaggle.com and later processed into stratified samples to ensure more equal representation. 
+Utilized GradCAM to visualize model attention leading to informed decision making on how next to improve. 
 
 ## Data Sources <!--- do not change this line -->
-
-(UPDATE IN README.md)
-Include any relevant data sources that were used in your project.
-
-*EXAMPLE:*
-*Kaggle Datasets: [Link to Kaggle Dataset](https://www.kaggle.com/datasets)*
+Kaggle Dataset: [Link to Kaggle Dataset]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/pythonafroz/solar-panel-images)
+Uploaded By: 'pythonafroz'
 
 ## Technologies Used <!--- do not change this line -->
 
