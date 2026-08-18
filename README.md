@@ -2,13 +2,8 @@
 Created a ResNet-18 computer vision model to classify solar panel defects. Utilizing transferred learning techniques to increase model efficacy, stratified sampling methods to ensure equal representation, and GradCAM to create model explainability for informed decision making, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.  
 
 
-## Problem Statement <!--- do not change this line -->
-
-(UPDATE IN README.md)
-Describe the motivation for this project, why it is relevant, and what its impacts are.
-
-*EXAMPLE:*
-*Given the substantial daily output of responses, the identification and mitigation of ChatGPT's biases become critical, safeguarding both the multitude of users and the far-reaching consequences they may influence.*
+## Problem Statement <!--- do not change this line -->  
+As carbon emissions continue to climb, scientists and engineers are looking for ways to implement and improve upon existing clean energy solutions. Current clean energy solutions come with large, up-front costs or long-term maintenance plans. By reducing the necessary human labor, and resulting monetary cost, of maintaining these clean energy solutions, they can more easily be adopted internationally.  
 
 ## Key Results <!--- do not change this line -->
 
