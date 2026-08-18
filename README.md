@@ -40,7 +40,7 @@ To accomplish this, we utilized the existing ResNet-18 computer vision model so 
 Utilized GradCAM to visualize model attention leading to informed decision making on how next to improve. 
 
 ## Data Sources <!--- do not change this line -->
-Kaggle Dataset: [Link to Kaggle Dataset]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/pythonafroz/solar-panel-images))
+Kaggle Dataset: [Link to Kaggle Dataset](https://www.kaggle.com/datasets/pythonafroz/solar-panel-images)  
 Uploaded By: 'pythonafroz'
 
 ## Technologies Used <!--- do not change this line -->
