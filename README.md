@@ -44,15 +44,12 @@ Kaggle Dataset: [Link to Kaggle Dataset](https://www.kaggle.com/datasets/pythona
 Uploaded By: 'pythonafroz'
 
 ## Technologies Used <!--- do not change this line -->
-
-(UPDATE IN README.md)
-List the technologies, libraries, and frameworks used in your project.
-
-*EXAMPLE:*
-- *Python*
-- *pandas*
-- *OpenAI API*
-
+Technologies, libraries, and frameworks used in this project: 
+- Python
+- PyTorch
+- Matplotlib
+- ResNet-18 Model
+- GradCAM
 
 ## Authors <!--- do not change this line -->
 
